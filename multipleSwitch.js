@@ -14,7 +14,7 @@ switch (education) {
   case "a high school diploma":
     salary ="$35,256";
     break;
-  case"an Associate's degree" :
+  case "an Associate's degree":
     salary ="$41,496";
     break;
   case "a Bachelor's degree":
