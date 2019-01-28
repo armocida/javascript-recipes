@@ -31,4 +31,4 @@ switch (education) {
     break;
 }
 
-console.log("In 2015, a person with "+ education +" earned an average of "+ salary+"/year.");
+console.log("In 2015, a person with "+ education +" earned an average of "+ salary +"/year.");
