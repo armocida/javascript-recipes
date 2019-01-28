@@ -3,7 +3,7 @@
 * their type of completed education.
 */
 
-var education = "a Master's degree";
+var education = "a Bachelor's degree";
 
 var salary;
 
