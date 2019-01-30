@@ -1,4 +1,5 @@
-/* A Switch statement is an another way tio chain multiple else if statments that are based on the
+/** 
+* A Switch statement is an another way tio chain multiple else if statments that are based on the
 * same value without using coditional statements. Instead, you just switch which piece of code is
 * executed based on a value.
 */
@@ -28,7 +29,8 @@ switch (option) {
 
 // prints: You selected option 3.
 
-/* To prevent the 'falling through' behavior we need to insert break statements in the code.
+/** 
+* To prevent the 'falling through' behavior we need to insert break statements in the code.
 * The break statement can be used to terminate a switch statement and transfer control to the
 * code following the terminated statement. By adding a break to each case clause, you fix the
 * issue of the switch statement falling-thorough to other case clasuse.
