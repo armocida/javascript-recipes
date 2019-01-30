@@ -1,4 +1,5 @@
-/* A good example of a multipe switch statement with break statements
+/** 
+* A good example of a multipe switch statement with break statements
 * This switch statement returns the average salary of a person based on
 * their type of completed education.
 */
