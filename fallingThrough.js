@@ -1,4 +1,5 @@
-/* In some situations, you might want to leverage the "falling-through" behavior of switch
+/** 
+* In some situations, you might want to leverage the "falling-through" behavior of switch
 * statements to your advantage.
 */
 
@@ -18,6 +19,7 @@ switch (tier) {
 
 console.log(output);
 
-/* prints: You’ll receive on copy of the NSFW (Not Safe for Work) Exploding Kittens card
+/**
+* prints: You’ll receive on copy of the NSFW (Not Safe for Work) Exploding Kittens card
 * game and one copy of the Exploding Kittens catd game.
 */
