@@ -24,6 +24,8 @@ function helloCat(callbackFunc) {
 // pass in catSays as a callback function
 helloCat(catSays);
 
+// returns: Hello meow meow meow
+
 /**
  * A function that is passed into another function is called a callback.
  */
