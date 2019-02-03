@@ -13,3 +13,5 @@ var string="";
     return string +"!";
 };
 console.log(laugh(10));
+
+// returns: hahahahahahahahahaha!
