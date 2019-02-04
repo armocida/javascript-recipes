@@ -15,7 +15,7 @@ var improvedDonuts = donuts.map(function(donut) {
 });
 
 // donuts array: ["jelly donut", "chocolate donut", "glazed donut"]
-// improvedDonuts array: ["JELLY DONUT HOLE", "CHOCOLATE DONUT HOLE", GLAZED DONUT HOLE"]
+// improvedDonuts array: ["JELLY DONUT HOLE", "CHOCOLATE DONUT HOLE", "GLAZED DONUT HOLE"]
 
 /**
  * The map() method accepts one argument, a function that will be used to manipulate each
